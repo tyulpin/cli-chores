@@ -1,2 +1,1 @@
-# cli-chores
-CLI chores list reminder on Go 
+To run app go run *.go
